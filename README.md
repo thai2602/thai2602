@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 - 📫 Reach me at: [lehoangthai1411@gmail.com](mailto:lehoangthai1411@gmail.com)
 - 🧠 Currently learning: React, Node.js, SQL, HTML/CSS, Git & GitHub Actions
 
-- 🧠 Currently learning: ReactJS, Node.js, SQL Server, Redis
 
 ---
 

@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 🎯 Goal: Build real-world projects & land an internship/job!
 
-- 🌏 I'm based in VietNam 🇻🇳
-- 📫 Reach me at: [lehoangthai1411@gmail.com](mailto:lehoangthai1411@gmail.com)
-- 🧠 Currently learning: React, Node.js, SQL, HTML/CSS, Git & GitHub Actions
+-  I'm based in VietNam 🇻🇳
+-  Reach me at: [lehoangthai1411@gmail.com](mailto:lehoangthai1411@gmail.com)
+-  Currently learning: React, Node.js, RAG-Langchain4j, Java, Spring Boot, Git & GitHub Actions
 
 
 ---
